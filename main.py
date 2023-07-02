@@ -16,7 +16,7 @@ def is_palindrome(word):
 
 
 if __name__ == '__main__':
-  word = input('Enter a word or phrase: ')
+  word = input('')
 
   if is_palindrome(word):
     print(f'{word} is a palindrome')
